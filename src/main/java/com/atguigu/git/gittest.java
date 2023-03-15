@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("hello git 3");
         System.out.println("master merge");
         System.out.println("hot-fix commit1");
+        System.out.println("push commit");
     }
 }
