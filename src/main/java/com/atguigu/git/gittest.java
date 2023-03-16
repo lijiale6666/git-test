@@ -8,5 +8,6 @@ public class gittest {
         System.out.println("master merge");
         System.out.println("hot-fix commit1");
         System.out.println("push commit");
+        System.out.println("push commit2");
     }
 }
