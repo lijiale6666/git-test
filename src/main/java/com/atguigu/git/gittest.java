@@ -11,6 +11,7 @@ public class gittest {
         System.out.println("push commit2");
         System.out.println("pull commit");
         System.out.println("gitee test");
+        System.out.println("gitee testpull");
 //        https://gitee.com/ten-scholar-bureaucrats/git_test.git
     }
 }
