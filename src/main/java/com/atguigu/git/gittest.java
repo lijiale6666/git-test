@@ -10,5 +10,6 @@ public class gittest {
         System.out.println("push commit");
         System.out.println("push commit2");
         System.out.println("pull commit");
+        System.out.println("更新github后导入到gitee");
     }
 }
