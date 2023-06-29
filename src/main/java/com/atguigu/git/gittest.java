@@ -14,6 +14,6 @@ public class gittest {
         System.out.println("gitee testpull");
 //        https://gitee.com/ten-scholar-bureaucrats/git_test.git
         System.out.println("更新github后导入到gitee");
-        System.out.println("git ");
+        System.out.println("git fuxi");
     }
 }
